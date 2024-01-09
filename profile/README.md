@@ -8,7 +8,7 @@ At Hanipeg, we specialize in crafting tools that harness the power of FFmpeg and
 
 ## Getting Involved
 
-We are actively developing our scripting language, and contributions from the community are welcome! If you're passionate about multimedia processing and want to contribute to making video and audio editing more accessible, check out our [GitHub Repository](https://github.com/hanipeg).
+We are actively developing our scripting language, and contributions from the community are welcome! If you're passionate about multimedia processing and want to contribute to making video and audio editing more accessible, check out our [GitHub Repository](https://github.com/hanipeg/hanipeg).
 
 
 
